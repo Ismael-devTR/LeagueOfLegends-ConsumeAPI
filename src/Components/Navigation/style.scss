@@ -1,0 +1,25 @@
+.head{
+    background: #000;
+    width: 100%;
+    min-height: 4em;
+    display: flex;
+    position: sticky;
+    align-items: center;
+    justify-content: center;
+    position: -webkit-sticky;
+    top: 0;
+    z-index: 3;
+}
+
+.nav-header{
+    display: flexbox;
+    background: #000;
+}
+
+.title{
+    background: #000;
+    color: #f3f3f3;
+    font-size: 1.25rem;
+    font-weight: 900;
+    text-decoration: none;
+}
